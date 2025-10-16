@@ -39,8 +39,8 @@ Criterios de éxito del prototipo
 
 
 Para evaluar si nuestro prototipo contribuye a la solución del problema, hemos definido los siguientes criterios de éxito medibles:
-El prototipo debe permitir a un usuario subir imágenes y que la IA detecte basura con al menos 80% de precisión en pruebas.
+El prototipo debe permitir a un usuario subir imágenes 
 El diseño de la app debe permitir que un usuario sin experiencia tecnológica pueda entender cómo reportar basura después de una breve explicación.
 La aplicación debe incluir un buscador sencillo para encontrar reportes por palabra clave, por ejemplo: “botella”, “red”, “bolsa”.
 El usuario debe poder cerrar sesión y volver a entrar sin perder sus reportes guardados y así poder seguir acumulando puntos para distintas premiaciones entre usuarios.
-Queremos que la aplicación además de funcional sea interactiva, así se incluirá sistema de puntos y logros, compartir logros en redes sociales, recompensas simbólicas (medalla digitales, certificados, etc) o hasta remuneración en casos especiales, tabla de posiciones entre usuarios, retroalimentaciones de proceso y comentarios motivacionales.
+Queremos que la aplicación además de funcional sea interactiva, así se incluirá sistema de puntos y logros, compartir logros en redes sociales, recompensas simbólicas (medalla digitales, certificados, etc) o hasta remuneración en casos especiales, tabla de posiciones entre usuarios, retroalimentaciones de proceso, etc.
